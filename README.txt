@@ -20,9 +20,9 @@ My eBay Search Tool is a simple desktop application that allows you to search fo
 
 ## Installation
 
-1. Download the "MyEbaySearchTool.exe" file from the provided source.
+1. Download the "ebaypricesearch.exe" file from the github.
 
-2. Double-click the "MyEbaySearchTool.exe" file to launch the application.
+2. Double-click the ".exe" file to launch the application.
 
 ## Known Issues
 
