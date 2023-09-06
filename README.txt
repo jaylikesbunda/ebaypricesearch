@@ -1,8 +1,6 @@
-# My eBay Search Tool
+# Overview
 
-## Overview
-
-My eBay Search Tool is a simple desktop application that allows you to search for eBay listings based on keywords and categories. It provides a user-friendly graphical interface for conducting eBay searches, viewing search results, and accessing additional item details.
+EbayPriceChecker is a simple desktop application that allows you to search for eBay listings based on keywords and categories. It provides a user-friendly graphical interface for conducting eBay searches, viewing search results, and accessing additional item details.
 
 ## Features
 
