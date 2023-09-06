@@ -26,7 +26,7 @@ My eBay Search Tool is a simple desktop application that allows you to search fo
 
 ## Known Issues
 
-- NA
+- Innacurate Pricing due to a lack of result sorting. Will be fixed in the next version.
 
 ## Support
 
